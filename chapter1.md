@@ -16,14 +16,14 @@ skills: 2
 Pada bagian ini Kamu akan belajar mengenai dasar-dasar pemrograman dengan python
 
 `@instructions`
-
+Pada bagian ini, Kamu dapat menuliskan nama Kamu pada bagian editor
 
 `@hint`
-
+Tuliskan nama kamu pada bagian editor
 
 `@pre_exercise_code`
 ```{python}
-
+// print("your name")
 ```
 
 `@sample_code`
