@@ -1,5 +1,5 @@
 ---
-title: 'Chapter Title Here'
+title: Pengenalan
 description: 'Chapter description goes here.'
 ---
 
@@ -13,7 +13,7 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+Pada bagian ini Kamu akan belajar mengenai dasar-dasar pemrograman dengan python
 
 `@instructions`
 
