@@ -23,7 +23,7 @@ Tuliskan nama kamu pada bagian editor
 
 `@pre_exercise_code`
 ```{python}
-// print("your name")
+print("your name")
 ```
 
 `@sample_code`
