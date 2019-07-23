@@ -3,7 +3,7 @@ title: Pengenalan
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Fungsi print
 
 ```yaml
 type: NormalExercise
@@ -23,7 +23,7 @@ Tuliskan nama kamu pada bagian editor
 
 `@pre_exercise_code`
 ```{python}
-print("your name")
+
 ```
 
 `@sample_code`
